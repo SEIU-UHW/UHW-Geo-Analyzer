@@ -1,0 +1,17 @@
+{
+    "projectName": "UHW Geo Analyzer",
+    "username": "mmoreno@seiu-uhw.org.uhwpartial",
+    "id": "cf104d90-7b37-11e8-9ac1-d7e0cf0f27b0",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://uhw--UHWPartial.cs16.my.salesforce.com",
+    "workspace": "C:\\Users\\mmoreno\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

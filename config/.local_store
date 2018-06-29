@@ -1,0 +1,44 @@
+{
+    "uhw_censusmap.page": {
+        "createdById": "0050H00000Aipc5QAB",
+        "createdByName": "Manny Moreno",
+        "createdDate": "2018-06-26T18:57:38.000Z",
+        "fileName": "unpackaged/pages/uhw_censusmap.page",
+        "fullName": "uhw_censusmap",
+        "id": "066f0000000QQZmAAO",
+        "lastModifiedById": "0050H00000Aipc5QAB",
+        "lastModifiedByName": "Manny Moreno",
+        "lastModifiedDate": "2018-06-28T19:41:21.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
+        "mmState": "clean"
+    },
+    "uhw_mapcensus_helper.cls": {
+        "createdById": "0050H00000Aipc5QAB",
+        "createdByName": "Manny Moreno",
+        "createdDate": "2018-06-26T19:33:24.000Z",
+        "fileName": "unpackaged/classes/uhw_mapcensus_helper.cls",
+        "fullName": "uhw_mapcensus_helper",
+        "id": "01pf0000000oSMRAA2",
+        "lastModifiedById": "0050H00000Aipc5QAB",
+        "lastModifiedByName": "Manny Moreno",
+        "lastModifiedDate": "2018-06-26T19:33:24.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "uhw_censusmap_helper.cls": {
+        "createdById": "0050H00000Aipc5QAB",
+        "createdByName": "Manny Moreno",
+        "createdDate": "2018-06-26T19:12:15.000Z",
+        "fileName": "unpackaged/classes/uhw_censusmap_helper.cls",
+        "fullName": "uhw_censusmap_helper",
+        "id": "01pf0000000oSMHAA2",
+        "lastModifiedById": "0050H00000Aipc5QAB",
+        "lastModifiedByName": "Manny Moreno",
+        "lastModifiedDate": "2018-06-27T22:35:42.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}
